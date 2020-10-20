@@ -43,3 +43,6 @@
 - [Reddit](https://www.reddit.com/r/csharp/)
 
     Please read [this](https://www.reddit.com/r/csharp/comments/3xn6sm/welcome_to_rcsharp_read_this_post_before) before posting.
+
+- [Ms Learn](https://docs.microsoft.com/en-us/learn/)
+    Please read microsoft learning document
